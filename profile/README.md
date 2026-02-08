@@ -9,14 +9,10 @@
 
 # Food Context Protocol (FCP)
 
-<div align="center">
-
 **A universal protocol for food context**
 
 [![Website](https://img.shields.io/badge/Website-fcp.dev-4CAF50?style=for-the-badge)](https://fcp.dev)
 [![Status](https://img.shields.io/badge/Status-Initializing-4CAF50?style=for-the-badge)](https://fcp.dev)
-
-</div>
 
 ---
 
