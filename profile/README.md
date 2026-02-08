@@ -51,10 +51,6 @@ Visit [fcp.dev](https://fcp.dev) for more information.
 
 ---
 
-<div align="center">
-
 **Built for the future of food intelligence**
 
 [Website](https://fcp.dev) • [Documentation](#) • [Community](#)
-
-</div>
