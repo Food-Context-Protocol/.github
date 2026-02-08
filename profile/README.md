@@ -1,19 +1,12 @@
-# Food Context Protocol (FCP)
-
 <div align="center">
 
-```
-███████╗ ██████╗██████╗
-██╔════╝██╔════╝██╔══██╗
-█████╗  ██║     ██████╔╝
-██╔══╝  ██║     ██╔═══╝
-██║     ╚██████╗██║
-╚═╝      ╚═════╝╚═╝
-```
+<img src="https://raw.githubusercontent.com/Food-Context-Protocol/.github/main/assets/fcp-logo.svg" alt="FCP Logo" width="200" height="200" />
+
+# Food Context Protocol (FCP)
 
 **A universal protocol for food context**
 
-[![Website](https://img.shields.io/badge/Website-fcp.dev-4CAF50?style=for-the-badge)](https://fcp.dev)
+[![Website](https://img.shields.io/badge/Website-fcp.dev-4CAF50?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEwIDIwdi02aDR2Nkg1di04aDN2LTZoOHY2aDN2OC05djZoLTl6Ii8+PC9zdmc+)](https://fcp.dev)
 [![Status](https://img.shields.io/badge/Status-Initializing-4CAF50?style=for-the-badge)](https://fcp.dev)
 
 </div>
