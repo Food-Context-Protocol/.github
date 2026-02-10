@@ -12,7 +12,7 @@ FCP is a universal protocol that enables AI assistants to understand, track, and
 
 ```bash
 # Install the Python SDK
-pip install fcp-python
+uv add fcp-python
 
 # Or use the TypeScript SDK
 npm install @fcp/sdk
